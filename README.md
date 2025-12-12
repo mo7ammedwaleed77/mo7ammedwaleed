@@ -1,22 +1,79 @@
-> 👨🏻‍💻 Web Front-end Developer
-<img src="https://github.com/Mokkapps/mokkapps/blob/master/header.png" alt="Mokkapps GitHub README header image">
-<p><a href="https://www.x.com/mokkapps"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/mokkapps"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/mokkapps/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> <a href="https://www.youtube.com/@mokkapps"><img src="https://img.shields.io/badge/youtube-%2312100E.svg?&style=for-the-badge&logo=youtube&logoColor=white" height=25></a> <a href="https://medium.com/@MokkappsDev"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25></a> <a href="https://dev.to/mokkapps"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" height=25></a></p>
-<h2>Check My Nuxt Starter Kit</h2>
-  <a href="https://nuxtstarterkit.com" target="_blank" rel="noreferrer nofollow">
-      <img src="https://mokkapps.twic.pics/nuxtstarterkit.com/promo.png" alt="Nuxt Starter Kit" height="500" >
-    </a>
-<h2>Latest Blog Posts</h2>
-  <ul>
-  <li><a href=https://mokkapps.de/blog/vue-state-management-composables-provide-inject-pinia target="_blank" rel="noreferrer nofollow">Navigating State Management in Vue: Composables, Provide/Inject, and Pinia</a></li><li><a href=https://mokkapps.de/blog/why-i-switched-back-from-vscode-to-intellij-idea target="_blank" rel="noreferrer nofollow">Why I Switched Back From VS Code to IntelliJ IDEA: A Developer's Journey</a></li><li><a href=https://mokkapps.de/blog/connecting-mysql-database-nuxt-drizzle-orm target="_blank" rel="noreferrer nofollow">Connecting a MySQL Database in Nuxt with Drizzle ORM</a></li><li><a href=https://mokkapps.de/vue-tips/accessing-pinia-store-in-nuxt-production-build target="_blank" rel="noreferrer nofollow">Nuxt Tip: Accessing Pinia Store in Production Build</a></li><li><a href=https://mokkapps.de/blog/vercel-acquires-nuxtlabs target="_blank" rel="noreferrer nofollow">Vercel Acquires NuxtLabs: What This Means for the Future of Nuxt</a></li>
-  </ul>
-<p><a href="https://mokkapps.de/blog">➡️ More blog posts</a></p>
-<h2>Latest Newsletter Issues</h2>
-  <ul>
-    <li><a href=https://weekly-vue.news/issues/v2/191 target="_blank" rel="noreferrer nofollow">Weekly Vue News #227 - Mastering Nuxt Layers, DevTools & Vite 8 Beta</a></li><li><a href=https://weekly-vue.news/issues/v2/190 target="_blank" rel="noreferrer nofollow">Weekly Vue News #226 - Smart Builds & Solid Code: Scaling Vue/Nuxt While Staying Secure</a></li><li><a href=https://weekly-vue.news/issues/v2/189 target="_blank" rel="noreferrer nofollow">Weekly Vue News #225 - Migrating to Nuxt 4, Mastering State, and Embracing New UI Tools</a></li><li><a href=https://weekly-vue.news/issues/v2/188 target="_blank" rel="noreferrer nofollow">Weekly Vue News #224 - Self-Hosted Nuxt Studio, URL-Driven State, and AI-Era TypeScript</a></li><li><a href=https://weekly-vue.news/issues/v2/187 target="_blank" rel="noreferrer nofollow">Weekly Vue News #223 - Mastering Nuxt Layers, Pinia v3, and Image Optimizations</a></li>
-  </ul>
-<p><a href="https://weekly-vue.news/issues">➡️ More issues</a></p>
-<h2>GitHub Stats</h2>
-<p><img src="https://github-readme-stats.vercel.app/api?username=mokkapps&amp;show_icons=true" alt="GitHub Stats"></p>
-  <a href="https://www.buymeacoffee.com/mokkapps" target="_blank" rel="noreferrer nofollow">
-      <img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170" >
-    </a>
+<p align="center">
+  <img src="https://svg-badge-generator.vercel.app/api/svg?text=Mohammed%20Waleed&fontSize=40&color=white&bgColor=0D1117&fontWeight=700" />
+</p>
+
+<h3 align="center">Front-End Developer | Content Creator (YouTube & TikTok)</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Front--End%20Developer-%23FF6F00?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Content%20Creator-%23E4405F?style=for-the-badge&logo=youtube&logoColor=white" />
+  <img src="https://img.shields.io/badge/TikTok-Creator-black?style=for-the-badge&logo=tiktok&logoColor=white" />
+  <img src="https://img.shields.io/badge/Lives%20In-Egypt-ffcc00?style=for-the-badge" />
+</p>
+
+---
+
+## 🚀 About Me
+I’m **Mohammed Waleed**, a Front-End Developer who creates modern, fast, and responsive web apps.  
+I also make educational content on **YouTube & TikTok** about coding, web development and productivity.
+
+<!-- ⭐ الأنيميشن يبدأ هنا ⭐ -->
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=1200&color=00EFFF&center=true&vCenter=true&width=700&height=70&lines=Welcome+To+My+GitHub+Profile!;I'm+Mohammed+Waleed;Front-End+Developer;Content+Creator+%7C+YouTube+%26+TikTok;C%2B%2B+Programmer" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2500&pause=800&color=3CF7A5&center=true&vCenter=true&width=800&height=45&lines=HTML+%2F+CSS+%2F+JavaScript;React.js+Developer;Vue.js+Developer;TailwindCSS+Designer;Bootstrap+UI+Builder;C%2B%2B+Programmer;Front-End+Developer;Content+Creator" />
+</p>
+
+<!-- ⭐ النهاية ⭐ -->
+
+---
+
+## 💻 Tech Stack
+
+### **Languages & Frameworks**
+- HTML, CSS, JavaScript  
+- React.js  
+- Vue.js  
+- TailwindCSS  
+- Bootstrap  
+- **C++**
+
+### **Learning Now**
+- TypeScript  
+- Svelte  
+- React Performance  
+
+---
+
+## 🖼 Featured Projects
+
+### 🔹 Project 1 – Portfolio Website
+<img src="https://via.placeholder.com/800x400/0d1117/ffffff?text=Project+Screenshot+1" />
+
+### 🔹 Project 2 – Modern Landing Page  
+<img src="https://via.placeholder.com/800x400/0d1117/ffffff?text=Project+Screenshot+2" />
+
+---
+
+## 🏆 Professional Badges
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-Expert-orange?logo=html5&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CSS3-Advanced-blue?logo=css3&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/JavaScript-Pro-yellow?logo=javascript&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/React.js-Developer-61DAFB?logo=react&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Vue.js-Developer-42b883?logo=vue.js&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/TailwindCSS-Designer-38b2ac?logo=tailwindcss&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/C++-Developer-00599C?logo=c%2B%2B&style=for-the-badge" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+![Mohammed's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohammedwaleed&show_icons=true&theme=dracula)
+
+![Profile Views](https://pageview.vercel.app/?github_user=mohammedwaleed)
